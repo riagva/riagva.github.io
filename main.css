@@ -1,25 +1,36 @@
 @charset "UTF-8";
 
 body {
-    height: ;
+    height: 720px;
+    width: 1280px;
+    border-style: ridge;
+    border-color: rgb(255, 0, 0);
 }
 
 header {
-
-}
-
-#div {
-
+    height: 150px;
+    width: 1000px;
+    border-style: ridge;
+    border-color: rgb(0, 255, 0);
 }
 
 main {
-
+    height: 420px;
+    width: 1000px;
+    border-style: ridge;
+    border-color: rgb(0, 0, 255);
 }
 
 aside {
-
+    height: 1280px;
+    width: 281px;
+    border-style: ridge;
+    border-color: rgb(255, 0, 255);
 }
 
 footer {
-
+    height: 150px;
+    width: 1000px;
+    border-style: ridge;
+    border-color: rgb(0, 255, 255);
 }
