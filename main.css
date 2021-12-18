@@ -1,36 +1,14 @@
 @charset "UTF-8";
 
-body {
-    height: 720px;
-    width: 1280px;
-    border-style: ridge;
-    border-color: rgb(255, 0, 0);
+h1 {
+    font-size: 50px;
+    color: orangered;
+    text-align: center;
 }
 
-header {
-    height: 150px;
-    width: 1000px;
-    border-style: ridge;
-    border-color: rgb(0, 255, 0);
-}
-
-main {
-    height: 420px;
-    width: 1000px;
-    border-style: ridge;
-    border-color: rgb(0, 0, 255);
-}
-
-aside {
-    height: 1280px;
-    width: 281px;
-    border-style: ridge;
-    border-color: rgb(255, 0, 255);
-}
-
-footer {
-    height: 150px;
-    width: 1000px;
-    border-style: ridge;
-    border-color: rgb(0, 255, 255);
+p {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 50px;
 }
